@@ -85,7 +85,7 @@ export default function Contact() {
 
             <div className="space-y-4 mb-8">
               <a
-                href="mailto:your@email.com"
+                href="mailto:boysoatov003@gmail.com"
                 className="flex items-center gap-4 text-gray-400 hover:text-violet-400 transition-colors group"
               >
                 <div className="w-11 h-11 rounded-xl bg-violet-600/15 border border-violet-500/20 flex items-center justify-center text-violet-400 group-hover:bg-violet-600/25 transition-colors shrink-0">
@@ -93,7 +93,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-xs text-gray-600 mb-0.5">Email</div>
-                  <div className="text-sm">your@email.com</div>
+                  <div className="text-sm">boysoatov003@gmail.com</div>
                 </div>
               </a>
 
